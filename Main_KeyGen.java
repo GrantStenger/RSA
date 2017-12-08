@@ -16,7 +16,7 @@ public class Main_KeyGen {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		// Add KeyGen and Encrypt tabs
-	    frame.add(new JTabbedPaneTest());
+		frame.add(new JTabbedPaneTest());
 	    
 		// Center the frame on the primary screen
 		frame.setLocationRelativeTo(null);
